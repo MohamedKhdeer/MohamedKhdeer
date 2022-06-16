@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohamedKhdeer
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning java script and this is my first language I hope you can help me
-- 💞️ I’m looking to collaborate on learning coding and improving my English to be talent with that language
+- 💞️ I’m looking to collaborate on learning coding and improving my English to be fluent with that language
 - 📫 How to reach me Instagram
 https://www.instagram.com/mohamed_khdeer/?hl=en
 <!---
